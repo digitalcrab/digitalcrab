@@ -4,7 +4,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Transforming the mobility landscape @cariad-tech
+- 🔭 I’m currently working on Transforming the mobility landscape @CARIAD
+- ⚡ Fun fact: I've got a competitive streak, and when I'm not coding, I like to channel that energy into go-kart racing. You might say I have a `drive` for success - on and off the track!
 
 <!--
 **digitalcrab/digitalcrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,5 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
