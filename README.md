@@ -1,6 +1,6 @@
-<a href="https://github.com/digitalcrab"><img src="https://img.shields.io/github/followers/digitalcrab?label=Follow&style=social"></a> <a href="https://www.codewars.com/users/digitalcrab" target="_blank"><img src="https://www.codewars.com/users/digitalcrab/badges/small"></a>
+<a href="https://github.com/digitalcrab"><img src="https://img.shields.io/github/followers/digitalcrab?label=Follow&style=social"></a>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=digitalcrab&show_icons=true">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=digitalcrab&count_private=true&show_icons=true">
 
 ### Hi there 👋
 
